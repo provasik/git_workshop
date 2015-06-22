@@ -1,2 +1,1 @@
-weapon: [knife, blaster]
 name: ja
