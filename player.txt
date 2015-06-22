@@ -1,2 +1,2 @@
-weapon: [knife, blaster]
+weapon: [knife, blaster, indie guru]
 name: orgovan
