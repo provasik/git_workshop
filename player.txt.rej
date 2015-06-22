@@ -1,0 +1,5 @@
+diff a/player.txt b/player.txt	(rejected hunks)
+@@ -1,2 +1,2 @@
+ weapon: [knife, blaster]
+-name: orgovan
++name:mkrajc
