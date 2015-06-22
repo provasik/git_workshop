@@ -1,3 +1,4 @@
 weapon: [knife, blaster]
 name: orgovan
 name: Supreme Commander Of The Universe mkascak
+name:mkrajc
