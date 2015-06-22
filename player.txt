@@ -1,7 +1,5 @@
 weapon: [knife, blaster]
 <<<<<<< HEAD
 name: orgovan
-looooooooool
-=======
 name:mkrajc
 >>>>>>> develop
